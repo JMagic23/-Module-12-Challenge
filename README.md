@@ -1,0 +1,2 @@
+
+The machine learning models exhibited strong performance across both datasets. In Machine Learning Model 1, the presence of a minimal quantity of high-risk data resulted in undersampling, potentially contributing to its comparatively lower scores when contrasted with Model 2. Conversely, in Model 2, the high-risk loans underwent oversampling, followed by balancing to achieve a 50-50 distribution between healthy and high-risk applicants. This approach fosters a more equitable representation and yields a superior numerical outcome.
